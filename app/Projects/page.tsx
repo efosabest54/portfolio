@@ -3,11 +3,11 @@ import React from 'react'
 
 const Projectpage = () => {
   return (
-    <div  className="min-h-screen bg-gray-600 border-b-2 border-black pt-15 px-6">
+    <div  className=" bg-gray-600 border-b-2 border-black pt-15 px-6">
       <div className="max-w-4xl mx-auto">
         <p className="text-6xl font-bold text-white font-mono text-center pb-5 mb-2">My Portfolio</p>
          
-         <div className="grid lg:grid-cols-2  gap-6  ">
+         <div className="grid lg:grid-cols-2 mb-10 gap-6  ">
            
                 <div className='bg-black text-white border-4 border-amber-500 p-6 rounded'>
                    <h1 className='text-xl font-bold'>Simple Static Website</h1>

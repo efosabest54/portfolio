@@ -12,7 +12,7 @@ const ContactPage = () => {
   const xHandle = "@crucialmax";
 
   return (
-  <div className="min-h-screen bg-gray-600 pt-15 px-6">
+  <div className="pb-10 bg-gray-600 pt-15 px-6">
     <div className="max-w-6xl mx-auto">
       <div className="text-left mb-10">
           <h1 className="text-6xl font-bold font-sans text-white mb-2">Connect with me</h1>
